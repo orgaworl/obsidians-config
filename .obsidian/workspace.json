@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ed19b3d47ea55ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "803d1add32a6ad67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beb5cf5f7ea6f7ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f02a4dcb73175648",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e6d58ede65a64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434dcd79144c4b29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cff72b5fa655d35f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02219c6cbed0d944",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "6c846274505c560b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbe4ad14d7e451f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284589ec5dd5dd9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1b589a80b263a9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da899bed3fda9f33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75110ef5abdea96a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "835567fcddd88278",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "beb5cf5f7ea6f7ae",
+  "lastOpenFiles": [
+    "密码学/密码常识.md",
+    "计算机/工具.md",
+    "密码学/安全协议笔记.md",
+    "英语写作/writing01.md",
+    "密码学/pic/Pasted image 20240903215906.png",
+    "密码学/pic",
+    "密码学/密码工程06.md",
+    "密码学/密码协议.md",
+    "密码学/密码学.md",
+    "计算机/实用性算法/算法实例.md",
+    "ProgramLanguage/C/CPP-STL-Containers.md",
+    "ProgramLanguage/C/CPP-STL-Algorithm.md",
+    "ProgramLanguage/C/CPP-Class.md",
+    "ProgramLanguage/C/CPP-Basic.md",
+    "ProgramLanguage/C/CPP-Advanced.md",
+    "ProgramLanguage/Go/Go.md",
+    "ProgramLanguage/latex/beamer01.md",
+    "ProgramLanguage/latex/latex01.md",
+    "英语写作",
+    "ProgramLanguage/Rust/Rust02.md",
+    "ProgramLanguage/latex",
+    "ProgramLanguage/Rust/Rust01.md",
+    "计算机/开源协议.md",
+    "misc/屏幕.md",
+    "misc/线材.md",
+    "picture/linux-release.jpg",
+    "picture/fontawesome-01.png",
+    "picture/ECC.png",
+    "政治/xg/xg.md",
+    "ProgramLanguage/Rust/Rust04.md",
+    "ProgramLanguage/Rust/Rust03.md",
+    "ProgramLanguage/编程语言学习框架.md",
+    "CTF/CTF-Pwn/Pwn01 保护技术及其绕过.md",
+    "CTF/CTF-Pwn",
+    "ProgramLanguage/pic/Pasted image 20240623192731.png",
+    "ProgramLanguage/pic/Pasted image 20240604175717.png",
+    "ProgramLanguage/pic/Pasted image 20240604163006.png",
+    "ProgramLanguage/Java",
+    "ProgramLanguage/Go",
+    "ProgramLanguage/Rust",
+    "pic/a.png",
+    "pic/a.jpg",
+    "pic",
+    "计算机/算法设计与分析/pic/time.png",
+    "计算机/实用性算法/pic",
+    "计算机/实用性算法",
+    "未命名.canvas"
+  ]
+}
