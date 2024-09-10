@@ -11,5 +11,9 @@
   "spellcheck": false,
   "autoPairMarkdown": true,
   "autoPairBrackets": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }

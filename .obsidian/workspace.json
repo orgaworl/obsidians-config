@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "803d1add32a6ad67",
+        "id": "a23c6061f03054d2",
         "type": "tabs",
         "children": [
           {
-            "id": "beb5cf5f7ea6f7ae",
+            "id": "3ee7dc7eedf3a4f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "机器学习/期中复习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 441.5
   },
   "right": {
     "id": "6c846274505c560b",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "机器学习/期中复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "机器学习/期中复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "机器学习/期中复习.md"
+              }
             }
           },
           {
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,54 +155,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "beb5cf5f7ea6f7ae",
+  "active": "3ee7dc7eedf3a4f2",
   "lastOpenFiles": [
-    "密码学/密码常识.md",
-    "计算机/工具.md",
-    "密码学/安全协议笔记.md",
-    "英语写作/writing01.md",
-    "密码学/pic/Pasted image 20240903215906.png",
-    "密码学/pic",
-    "密码学/密码工程06.md",
-    "密码学/密码协议.md",
-    "密码学/密码学.md",
-    "计算机/实用性算法/算法实例.md",
-    "ProgramLanguage/C/CPP-STL-Containers.md",
-    "ProgramLanguage/C/CPP-STL-Algorithm.md",
-    "ProgramLanguage/C/CPP-Class.md",
-    "ProgramLanguage/C/CPP-Basic.md",
-    "ProgramLanguage/C/CPP-Advanced.md",
-    "ProgramLanguage/Go/Go.md",
-    "ProgramLanguage/latex/beamer01.md",
-    "ProgramLanguage/latex/latex01.md",
-    "英语写作",
-    "ProgramLanguage/Rust/Rust02.md",
-    "ProgramLanguage/latex",
-    "ProgramLanguage/Rust/Rust01.md",
-    "计算机/开源协议.md",
-    "misc/屏幕.md",
-    "misc/线材.md",
-    "picture/linux-release.jpg",
-    "picture/fontawesome-01.png",
-    "picture/ECC.png",
-    "政治/xg/xg.md",
-    "ProgramLanguage/Rust/Rust04.md",
-    "ProgramLanguage/Rust/Rust03.md",
-    "ProgramLanguage/编程语言学习框架.md",
-    "CTF/CTF-Pwn/Pwn01 保护技术及其绕过.md",
-    "CTF/CTF-Pwn",
-    "ProgramLanguage/pic/Pasted image 20240623192731.png",
-    "ProgramLanguage/pic/Pasted image 20240604175717.png",
-    "ProgramLanguage/pic/Pasted image 20240604163006.png",
-    "ProgramLanguage/Java",
-    "ProgramLanguage/Go",
-    "ProgramLanguage/Rust",
+    "机器学习/pic/Pasted image 20240910163944.png",
+    "机器学习/pic",
+    "pic/fontawesome-01.png",
+    "pic/sort.jpg",
+    "密码学/pic/SM3压缩函数.jpg",
+    "pic/matplotlib-color.jpg",
+    "pic/memStruct.webp",
+    "pic/machine-learning.png",
+    "pic/LinuxMemoryStruct.webp",
+    "pic/linux-release.jpg",
+    "密码学/pic/ECC.png",
     "pic/a.png",
-    "pic/a.jpg",
-    "pic",
-    "计算机/算法设计与分析/pic/time.png",
-    "计算机/实用性算法/pic",
-    "计算机/实用性算法",
+    "template/basic.md",
+    "计算机/软件逆向/3. 编译.md",
+    "计算机/软件逆向/2. 系统调用.md",
+    "计算机/软件逆向/1. 基础.md",
+    "Program/gem5-arm快速部署.md",
+    "Program/gdb.md",
+    "Program/obsidians/问题.md",
+    "Program/obsidians",
+    "ProgramLanguage/未命名",
+    "计算机/软件逆向/7. 实战.md",
+    "计算机/软件逆向/10. tool.md",
+    "计算机/软件逆向/6.侧信道分析.md",
+    "计算机/软件逆向/4. 逆向.md",
+    "计算机/软件逆向/考试.md",
+    "计算机/软件逆向/5. 二进制插桩.md",
+    "计算机/软件安全/软安04 渗透测试.md",
+    "计算机/软件安全/软安03 模糊测试.md",
+    "计算机/软件安全/软安02 漏洞与恶意程序.md",
+    "计算机/软件安全/软安01 基础.md",
+    "Science-Research-Writing/Science-Research-Writing-01.md",
+    "计算机/计算机应用技术概念常识.md",
+    "计算机/开源协议.md",
+    "Program/github.md",
+    "Program/git.md",
+    "paper-reading/SFuzz.md",
+    "paper-reading",
+    "Program/vim.md",
+    "Program/sqlmap.md",
+    "Science-Research-Writing/pic",
+    "Science-Research-Writing",
+    "英语写作/pic",
+    "ProgramLanguage/SQL/pic",
+    "ProgramLanguage/SQL",
+    "Program/pic",
     "未命名.canvas"
   ]
 }
