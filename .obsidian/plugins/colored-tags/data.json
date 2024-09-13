@@ -101,7 +101,8 @@
     "System": 89,
     "Security": 90,
     "ReverseEngineer": 91,
-    "SystemSecurity": 92
+    "SystemSecurity": 92,
+    "math": 93
   },
   "_version": 3
 }
