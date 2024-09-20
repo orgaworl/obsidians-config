@@ -13,7 +13,11 @@
   "autoPairBrackets": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "newFileFolderPath": "temp",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true
 }

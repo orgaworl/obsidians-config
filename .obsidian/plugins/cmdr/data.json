@@ -29,9 +29,15 @@
       "mode": "any"
     },
     {
-      "id": "workspace:export-pdf",
+      "id": "better-export-pdf:export-current-file-to-pdf",
       "icon": "book",
-      "name": "导出为 PDF",
+      "name": "Better Export PDF",
+      "mode": "any"
+    },
+    {
+      "id": "markdown-prettifier:markdown-prettifier-run",
+      "icon": "activity",
+      "name": "Markdown prettifier: Run",
       "mode": "any"
     }
   ],
